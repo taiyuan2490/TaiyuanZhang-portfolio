@@ -14,6 +14,11 @@ I chose this visualization because it highlights cultural and demographic trends
 <img width="503" height="599" alt="image" src="https://github.com/user-attachments/assets/6364df69-10fc-40df-b3f0-7d9947afe04d" />
 
 ## Step three: Sketch a solution
+<img width="756" height="252" alt="image" src="https://github.com/user-attachments/assets/be32e0fe-f43e-41e2-923f-912a928e68d9" />
+
+<img width="965" height="606" alt="image" src="https://github.com/user-attachments/assets/6cb43ff6-1fcf-4eff-93f7-f19471d4b478" />
+
+
 
 ## Step four: Test the solution
 
@@ -47,7 +52,7 @@ _Don't identify or share personally identifiable information (PII) about the peo
 
 Synthesis: 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+Feedback showed consistent confusion about mixed denominators, the invisible 71% statistic, and county map distortions. Participants wanted clearer encoding, simplified visuals, and engaging elements. I learned that accessibility matters as much as accuracy. My redesign will highlight the 71% directly, use hexbin maps, and streamline layouts for readability.
 
 ## Step five: build the solution
 
