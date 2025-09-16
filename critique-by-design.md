@@ -1,18 +1,17 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Title
-Text here...
-
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
 
 ## Step one: the visualization
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+https://www.pewresearch.org/short-reads/2023/05/23/71-of-asian-restaurants-in-the-u-s-serve-chinese-japanese-or-thai-food/
+
+I chose this visualization because it highlights cultural and demographic trends through the lens of food, a topic both accessible and socially meaningful. The charts are professional and clear, but they also reveal challenges around mixed denominators, overlapping categories, and geographic distortion that make them a strong candidate for critique and redesign. By improving how the story of Asian cuisine in the U.S. is communicated, I can practice clarifying complex datasets while maintaining visual appeal. The subject matter also feels highly relevant to broad audiences, from the general public to policymakers and cultural researchers.
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+<img width="539" height="1148" alt="image" src="https://github.com/user-attachments/assets/9e6b3771-47f8-45dd-9d08-2b6bbb8554d3" />
+
+<img width="503" height="599" alt="image" src="https://github.com/user-attachments/assets/6364df69-10fc-40df-b3f0-7d9947afe04d" />
 
 ## Step three: Sketch a solution
 
