@@ -18,6 +18,8 @@ I chose this visualization because it highlights cultural and demographic trends
 
 <img width="965" height="606" alt="image" src="https://github.com/user-attachments/assets/6cb43ff6-1fcf-4eff-93f7-f19471d4b478" />
 
+file:///C:/Users/taiyu/Desktop/Desktop/Study/Course/Intro%20to%20AI/asian_restaurants_map_title_fixed.html
+
 
 
 ## Step four: Test the solution
