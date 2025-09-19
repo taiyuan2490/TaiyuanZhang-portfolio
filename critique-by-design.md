@@ -6,8 +6,7 @@
 
 https://www.pewresearch.org/short-reads/2023/05/23/71-of-asian-restaurants-in-the-u-s-serve-chinese-japanese-or-thai-food/
 
-I chose this visualization because it highlights cultural and demographic trends through the lens of food, a topic both accessible and socially meaningful. The charts are professional and clear, but they also reveal challenges around mixed denominators, overlapping categories, and geographic distortion that make them a strong candidate for critique and redesign. By improving how the story of Asian cuisine in the U.S. is communicated, I can practice clarifying complex datasets while maintaining visual appeal. The subject matter also feels highly relevant to broad audiences, from the general public to policymakers and cultural researchers.
-
+I chose this visualization because it highlights cultural and demographic trends through the lens of food, a topic both accessible and socially meaningful. The charts trys to convey a lot of information, but when I first reading I found their are potential to make the plot more clear and easy to understand. By improving how the story of Asian cuisine in the U.S. is communicated, I can practice clarifying complex idea while maintaining visual appeal. 
 ## Step two: the critique
 <img width="539" height="1148" alt="image" src="https://github.com/user-attachments/assets/9e6b3771-47f8-45dd-9d08-2b6bbb8554d3" />
 
@@ -42,7 +41,7 @@ Results:
 _Don't identify or share personally identifiable information (PII) about the people you spoke to._
 
 
-| Question                                              | Interview 1 (23, student with plotting background)                                                                                                   | Interview 2 (50, engineer)                                                                                          | Interview 3 (18, high school student)                                                                        |
+| Question                                              | Interview 1 (23 years old, student with plotting background)                                                                                                   | Interview 2 (50 years old,, engineer)                                                                                          | Interview 3 (18 years old, high school student)                                                                        |
 | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | Can you tell me what you think this is?               | “This is a set of charts showing how many U.S. restaurants serve Asian cuisines, broken down by type and location.”                                  | “Looks like it’s about Asian food in the U.S., maybe trying to show where people eat it most often.”                | “It’s about Asiian food restaurants, like which type are most common and where.”                             |
 | Can you describe to me what this is telling you?      | “Chinese, Japanese, and Thai dominate. About 12% of all restaurants are Asian. Certain counties like Honolulu and Bay Area have really high shares.” | “Main point is that Asian food isn’t huge nationwide but is big in some regions. Also, Chinese is the most common.” | “Most Asian restaurants are Chinese or Japanase. Hawaii has a lot of them compared to other places.”         |
@@ -53,7 +52,7 @@ _Don't identify or share personally identifiable information (PII) about the peo
 
 Synthesis: 
 
-Feedback showed consistent confusion about mixed denominators, the invisible 71% statistic, and county map distortions. Participants wanted clearer encoding, simplified visuals, and engaging elements. I learned that accessibility matters as much as accuracy. My redesign will highlight the 71% directly, use hexbin maps, and streamline layouts for readability.
+Feedback showed consistent confusion about mixed denominators, the invisible 71% statistic, and county map distortions. Participants wanted clearer encoding, simplified visuals, and engaging elements. I learned that accessibility matters as much as accuracy. 
 
 ## Step five: build the solution
 
@@ -61,8 +60,10 @@ see the link:
 https://taiyuan2490.github.io/TaiyuanZhang-portfolio/
 
 ## References
-_List any references you used here._
+ 
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used AI assistance to help me generate ideas for plotting visualizations and to resolve technical issues related to HTML/Markdown integration and deployment.  
+All design decisions and final implementations were by me.
+ 
 
