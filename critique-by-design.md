@@ -14,11 +14,10 @@ I chose this visualization because it highlights cultural and demographic trends
 <img width="503" height="599" alt="image" src="https://github.com/user-attachments/assets/6364df69-10fc-40df-b3f0-7d9947afe04d" />
 
 ## Step three: Sketch a solution
-<img width="756" height="252" alt="image" src="https://github.com/user-attachments/assets/be32e0fe-f43e-41e2-923f-912a928e68d9" />
+<img width="748" height="667" alt="image" src="https://github.com/user-attachments/assets/3baa8ef5-6f90-4e4e-b90c-cbf88d1e8ae0" />
+<img width="831" height="659" alt="image" src="https://github.com/user-attachments/assets/709de0c3-e3a8-4807-8bb8-a83a371915f0" />
+<img width="727" height="633" alt="image" src="https://github.com/user-attachments/assets/c4be1aa6-c7c8-41c3-92b8-c9cf53d385d4" />
 
-<img width="965" height="606" alt="image" src="https://github.com/user-attachments/assets/6cb43ff6-1fcf-4eff-93f7-f19471d4b478" />
-
-file:///C:/Users/taiyu/Desktop/Desktop/Study/Course/Intro%20to%20AI/asian_restaurants_map_title_fixed.html
 
 
 
