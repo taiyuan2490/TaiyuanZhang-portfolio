@@ -56,7 +56,7 @@ Synthesis:
 Feedback showed consistent confusion about mixed denominators, the invisible 71% statistic, and county map distortions. Participants wanted clearer encoding, simplified visuals, and engaging elements. I learned that accessibility matters as much as accuracy. My redesign will highlight the 71% directly, use hexbin maps, and streamline layouts for readability.
 
 ## Step five: build the solution
-
+[Main Bar Chart (index.html)](index.html)
 
 
 ## References
