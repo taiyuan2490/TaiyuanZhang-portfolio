@@ -57,7 +57,7 @@ Feedback showed consistent confusion about mixed denominators, the invisible 71%
 ## Step five: build the solution
 
 see the link:
-https://taiyuan2490.github.io/TaiyuanZhang-portfolio/asiabarplot.html
+[👉 View the interactive Asia barplot](./asiabarplot.html)
 
 ## References
  
